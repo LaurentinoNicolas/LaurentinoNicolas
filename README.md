@@ -1,4 +1,4 @@
-### Olá Mundo 🗺!!! Bem Vindo ao meu GitHub
+### Olá Mundo 🗺!!! Bem Vindo ao meu GitHub...
 
 - 🔭 Hoje trabalho em um setor de compras.
 - 🌱 atualmente estudando Web FullStack.
