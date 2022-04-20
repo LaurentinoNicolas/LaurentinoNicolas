@@ -1,6 +1,6 @@
 ### Olá Mundo 🗺!!! Bem Vindo ao meu GitHub...
 
-- 🔭 Hoje trabalho em um setor de compras.
+- 🔭 Desenvolvedor Java na V2 Saude.
 - 🌱 atualmente estudando Web FullStack.
 
 
